@@ -1,0 +1,1 @@
+curl -H 'Host: arch.homework' http://{Ingress IP}/health
